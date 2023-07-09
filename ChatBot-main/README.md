@@ -8,7 +8,7 @@
 Chat bot made using HTML, CSS and JavaScript.
 
 <h2> Website: 
-<a href="https://a-anand4866.github.io/ChatBot/" target="_blank">Visit Now🚀</a>
+<a href="https://chatting-bot.netlify.app/" target="_blank">Visit Now🚀</a>
 </h2> 
 
 ## 📌 Tech Stack:
@@ -26,14 +26,14 @@ If you want to contact me, you can reach me through below handles.
 
 <div align="center">
 
-<a  href="https://www.youtube.com/channel/UCmqNIRWLzwhPCuZUYd5Oxeg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-<a  href="https://www.linkedin.com/in/avinash-anand02/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/Avinash52870643" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:avinashmgr53@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://www.youtube.com/channel/pradeepkapassion1" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/pradeepkapassion/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/pradeepkpassion" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:pradeepkumar1630@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
 
-© 2022 Avinash Anand
+© 2022 Pradeep Kumar
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
